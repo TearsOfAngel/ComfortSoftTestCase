@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ComfortSoft
+
+logging:
+  level:
+    ru.vcarstein.comfortsoft.service.impl: DEBUG
